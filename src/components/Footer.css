@@ -1,0 +1,15 @@
+.select3{
+  width: 30%;
+  padding: 20px;
+  margin: 10px 0 10px 20px;
+}
+.select3 h3{
+  color: antiquewhite;
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+.select3 p{
+  color: #8a929e;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
